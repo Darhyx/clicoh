@@ -1,6 +1,6 @@
 from pyexpat import model
 from sqlite3 import Timestamp
-from turtle import st
+
 from django.db import models
 
 # Create your models here.
