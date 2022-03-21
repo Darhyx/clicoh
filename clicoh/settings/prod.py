@@ -85,7 +85,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'clicoh.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database
